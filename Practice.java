@@ -1,13 +1,17 @@
 import java.util.*;
 class Practice{
-static int method(int a){
+/*static int method(int a){
 return 5+a;
-}
+}*/
 
 public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
-System.out.print(method(4));
+//System.out.print(method(4));
 //add(6,7);
+//Strings
+
+String txt="Prachiti";
+System.out.print("Length is: "+txt.length());
 }
 }
   /*int arr[]=new int[5];
@@ -28,4 +32,6 @@ int d=7;
 int e=40;
 int max=(a>b && a>c && )?a:b;
 System.out.println("Max: " +max);*/
+
+//Strings
 
